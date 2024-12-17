@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Design" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #85a5ff;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="68.73" y="168.57" width="282.51" height="192.93"/>
+  <rect class="cls-2" x="128.76" y="108.54" width="282.51" height="192.93"/>
+  <g>
+    <rect class="cls-1" x="114.96" y="301.47" width="13.81" height="12.73"/>
+    <g>
+      <rect x="128.76" y="108.54" width="282.51" height="9.96"/>
+      <rect x="128.76" y="301.47" width="282.51" height="9.96"/>
+      <rect x="411.27" y="118.5" width="9.96" height="183.26"/>
+      <rect x="118.8" y="118.5" width="9.96" height="183.26"/>
+      <rect x="172.52" y="118.5" width="9.96" height="183.26"/>
+      <g>
+        <rect x="145.79" y="146.9" width="9.96" height="9.96"/>
+        <rect x="145.79" y="166.37" width="9.96" height="9.96"/>
+        <rect x="145.79" y="156.87" width="9.96" height="9.96"/>
+        <rect x="135.83" y="156.87" width="9.96" height="9.96"/>
+        <rect x="155.49" y="156.87" width="9.96" height="9.96"/>
+      </g>
+      <rect x="207.56" y="176.92" width="177.04" height="9.96"/>
+      <rect x="207.56" y="146.9" width="177.04" height="9.96"/>
+      <rect x="207.56" y="206.94" width="177.04" height="9.96"/>
+      <rect x="207.56" y="236.96" width="177.04" height="9.96"/>
+      <rect x="207.56" y="266.98" width="177.04" height="9.96"/>
+    </g>
+    <rect class="cls-1" x="98.75" y="311.43" width="282.51" height="30.02"/>
+    <rect class="cls-1" x="88.78" y="148.51" width="30.02" height="183.26"/>
+    <rect class="cls-1" x="98.75" y="138.55" width="20.05" height="9.96"/>
+    <rect class="cls-1" x="381.25" y="311.43" width="9.96" height="20.05"/>
+    <g>
+      <rect x="68.73" y="361.5" width="282.51" height="9.96"/>
+      <rect x="58.76" y="178.53" width="9.96" height="183.26"/>
+      <rect x="68.73" y="168.57" width="20.05" height="9.96"/>
+      <rect x="351.24" y="341.45" width="9.96" height="20.05"/>
+    </g>
+  </g>
+</svg>
